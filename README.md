@@ -6,4 +6,5 @@ Eai, bem vindo ao livro de receitas.
 Receitas:
 
 - Lasanha;
-- Bolo.
+- Bolo;
+- Torta.
