@@ -1,6 +1,6 @@
-#Bolo Simples
+# Bolo Simples
 
-##Ingredientes
+## Ingredientes
 3 ovos
 1 xícara de açúcar
 2 xícaras de farinha de trigo
@@ -10,7 +10,7 @@
 1 colher de chá de essência de baunilha (opcional)
 
 
-##Modo de Preparo
+## Modo de Preparo
 Pré-aqueça o forno a 180°C e unte uma forma com manteiga e farinha.
 Bata os ovos e o açúcar até formar um creme claro e fofo.
 Adicione o óleo e o leite, batendo bem.

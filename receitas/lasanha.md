@@ -1,5 +1,5 @@
 # lasanha de queijo
-##Ingredientes:
+## Ingredientes:
 500g de massa para lasanha
 500g de queijo muçarela ralado
 200g de queijo parmesão ralado
@@ -8,7 +8,7 @@
 Sal e pimenta a gosto
 Orégano a gosto
 
-##**Modo de Preparo:**
+## **Modo de Preparo:**
 Pré-aqueça o forno a 180°C.
 Cozinhe a massa para lasanha conforme as instruções da embalagem.
 Prepare o molho branco: em uma panela, derreta 2 colheres de sopa de manteiga, adicione 2 colheres de sopa de farinha de trigo e mexa até formar uma pasta. Acrescente 500ml de leite aos poucos, mexendo sempre até engrossar. Tempere com sal, pimenta e noz-moscada a gosto.

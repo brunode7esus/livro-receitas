@@ -7,4 +7,6 @@ Receitas:
 
 - Lasanha;
 - Bolo;
-- Torta.
+- Torta;
+- Pudim.
+
